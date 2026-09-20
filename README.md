@@ -246,4 +246,4 @@ This repository serves as the official landing page for Cuphead. The software is
 **Get the most recent version of Cuphead today!**
 
 ---
-**Last updated:** 2026-09-20 10:53:10 UTC
+**Last updated:** 2026-09-20 14:35:46 UTC
